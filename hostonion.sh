@@ -19,7 +19,7 @@ apt install tor -y
 apt install wget -y
 apt install php -y
 apt install nano
-rm index.html
+#rm index.html
 echo -e $'\e[1;33m[\e[0m\e[1;77m HostOnion \e[0m\e[1;33m]\e[0m\e[1;32m ## Generating Webpage \e[0m'
 wget https://raw.githubusercontent.com/Deauthxploit/Nothing_much/main/index.html
 echo -e $'\e[1;33m[\e[0m\e[1;77m HostOnion \e[0m\e[1;33m]\e[0m\e[1;32m # Enter Details to display on the Webpage \e[0m'
